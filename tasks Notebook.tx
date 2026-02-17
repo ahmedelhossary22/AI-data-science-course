@@ -1,0 +1,42 @@
+## search task num 1
+Low-Level Languages : are close to machine hardware They are fast but harder to understand and write as Machine Language  and Assembly Language
+
+High-Level Languages: are closer to human language They are easier to read and  write as Python , Java and C++
+
+Compiled  : The whole program is translated into machine code before execution as c++ You write code then The compiler converts it into an executable file 
+
+Interpreted : The code is executed line by line like Python that reads and executes each line immediately
+
+Programming Languages : Used to build complete software systems and applications like java that Used to build Android apps and enterprise systems 
+
+Scripted Languages : Used mainly to automate tasks or control other programs Like JavaScript Used inside browsers to make websites interactive
+
+Open Source : The source code is publicly available. Anyone can modify it
+
+Not Open Source : The source code is private and owned by a company 
+
+Supporting OOP : Supports Object-Oriented Programming concepts like:
+Classes
+Objects
+Inheritance
+Polymorphism 
+
+Not Supporting OOP : Does not use objects and classes
+
+
+## search task num 2
+
+float (Single-Precision): 4 bytes of memory, 6–7 decimal places of precision, fastest performance, suitable for graphics or cases where slight approximation is fine
+
+double (Double-Precision): 8 bytes of memory, 15–16 decimal places of precision, commonly the default for real numbers
+
+decimal (High Precision): 16 bytes of memory, 28–29 significant digits. Unlike float and double which are binary floating-point types (approximations),
+decimal is a decimal floating-point type, making it accurate for monetary calculations
+
+when to use ??
+
+float : Graphics/games (3D positions), high-performance scientific simulations where exactness is less important than speed
+
+Double: Scientific/engineering calculations, general-purpose programming
+
+Decimal: Financial applications, accounting, or anything requiring exact, high-precision decimal representation
