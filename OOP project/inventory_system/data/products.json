@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "Milk",
+        "category": "food",
+        "production_date": "2026-04-26",
+        "expiration_date": "2027-05-26",
+        "quantity": 1,
+        "price": 2.3
+    }
+]
